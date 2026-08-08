@@ -61,12 +61,15 @@ Competitive Martial arts forged my discipline, consistency, focus, and resilienc
 ---
 
 
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MrSamarjitBanerjee&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=222222&icon_color=555555&text_color=444444&bg_color=ffffff" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSamarjitBanerjee&layout=compact&hide_border=true&langs_count=8&title_color=222222&text_color=444444&bg_color=ffffff" />
-</div>
 
- ---
+<div align="center">
+*"Code with purpose. Build with impact."*
+ 
+<br/>
+[![GitHub](https://img.shields.io/badge/-MrSamarjitBanerjee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrSamarjitBanerjee)
+[![LinkedIn](https://img.shields.io/badge/-samarjit--banerjee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarjit-banerjee)
+ 
+</div>
 <div align="center">
 **Open to backend and full-stack roles · India**
 
