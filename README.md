@@ -49,7 +49,7 @@ B.Tech in Information Technology (2025) · Award-winning final year project reco
 
 **Deployment**
 
-![vercel<img src="https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel&logoColor=FFFFFF" />
+![vercel]<img src="https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel&logoColor=FFFFFF" />
 ![render]<img src="https://img.shields.io/badge/-Render-333333?style=flat-square&logo=render&logoColor=46E3B7" /> 
 ![aws]<img src="https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 
