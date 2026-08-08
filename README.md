@@ -21,11 +21,6 @@ B.Tech in Information Technology (2025) · Award-winning final year project reco
 
 ---
 
-### 🥋 Beyond Code who am ? 
-Karate — Zonal Level Runner-Up
-Competitive Martial arts forged my discipline, consistency, focus, and resilience — the same edge I bring to every commit.
-
----
 
 
 ### Tech Stack
@@ -58,6 +53,16 @@ Competitive Martial arts forged my discipline, consistency, focus, and resilienc
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-333333?style=flat-square&logo=openai)
 
 ---
+---
+
+### 🥋 Beyond Code who am ? 
+Karate — Zonal Level Runner-Up
+Competitive Martial arts forged my discipline, consistency, focus, and resilience — the same edge I bring to every commit.
+
+---
+
+---
+
 
 <div align="center">
 
