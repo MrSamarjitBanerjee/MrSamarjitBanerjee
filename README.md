@@ -15,7 +15,7 @@
 
 ### About
 
-Backend-focused developer specializing in **Node.js, TypeScript, and Express**, with production experience across REST APIs, relational and NoSQL databases, and cloud infrastructure on AWS. Also build applied AI systems — RAG pipelines, vector search, and LLM-integrated tooling.
+Backend-focused, MERN developer specializing in **Node.js, TypeScript, and Express**, with production experience across REST APIs, relational and NoSQL databases, and cloud infrastructure on AWS. Also build applied AI systems — RAG pipelines, vector search, and LLM-integrated tooling.
 
 B.Tech in Information Technology (2025) · Award-winning final year project recognized by JIS Group .
 
