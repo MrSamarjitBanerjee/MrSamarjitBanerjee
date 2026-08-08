@@ -52,6 +52,10 @@ B.Tech in Information Technology (2025) · Award-winning final year project reco
 ![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-333333?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-333333?style=flat-square&logo=openai)
 
+Deployment
+
+<p> <img src="https://skillicons.dev/icons?i=vercel,render,aws" /> </p>
+
 ---
 
 ### 🥋 Beyond Code who am ? 
