@@ -1,9 +1,9 @@
 <div align="center">
 <!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Samarjit%20Banerjee&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20Explorer&descAlignY=58&descSize=20&descColor=c0c0c0" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Samarjit%20Banerjee&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=MERN%20Developer%20%7C%20Backend%20Focused%20%7C%20AI%20Explorer&descAlignY=58&descSize=20&descColor=c0c0c0" />
 
 
-### MERN Engineer · Node.js & TypeScript · AI/RAG Systems
+### MERN Stack Engineer · Node.js & TypeScript · AI/RAG Systems
 
 [![Email](https://img.shields.io/badge/Email-samarjit.banerjee%40example.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:samarjit.banerjee@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarjit-banerjee)
