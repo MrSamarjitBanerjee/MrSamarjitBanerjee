@@ -21,10 +21,13 @@ B.Tech in Information Technology (2025) · Award-winning final year project reco
 
 ---
 
-# 🥋 Beyond Code
+### 🥋 Beyond Code who am ? 
 Karate — Zonal Level Runner-Up
 Competitive Martial arts forged my discipline, consistency, focus, and resilience — the same edge I bring to every commit.
+
 ---
+
+
 ### Tech Stack
 
 **Languages**
