@@ -59,8 +59,19 @@ Karate — Zonal Level Runner-Up
 Competitive Martial arts forged my discipline, consistency, focus, and resilience — the same edge I bring to every commit.
 
 ---
-
 <div align="center">
-**Open to backend and full-stack roles · India**
+
+### **Open to backend and full-stack roles · India**
+
+<br>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+</a>
+&nbsp;
+<a href="./Samarjit_Banerjee_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20Download%20Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+</a>
 
 </div>
+
