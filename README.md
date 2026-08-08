@@ -1,8 +1,9 @@
 <div align="center">
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Samarjit%20Banerjee&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20Explorer&descAlignY=58&descSize=20&descColor=c0c0c0" />
 
-# Samarjit Banerjee
 
-### Backend Engineer · Node.js & TypeScript · AI/RAG Systems
+### MERN Engineer · Node.js & TypeScript · AI/RAG Systems
 
 [![Email](https://img.shields.io/badge/Email-samarjit.banerjee%40example.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:samarjit.banerjee@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarjit-banerjee)
@@ -16,9 +17,13 @@
 
 Backend-focused developer specializing in **Node.js, TypeScript, and Express**, with production experience across REST APIs, relational and NoSQL databases, and cloud infrastructure on AWS. Also build applied AI systems — RAG pipelines, vector search, and LLM-integrated tooling.
 
-B.Tech in Information Technology (2025) · AWS Certified Cloud Practitioner · Award-winning final year project, recognized at a national conference.
+B.Tech in Information Technology (2025) · Award-winning final year project recognized by JIS Group .
 
 ---
+
+# 🥋 Beyond Code
+Karate — Zonal Level Runner-Up
+Competitive Martial arts forged my discipline, consistency, focus, and resilience — the same edge I bring to every commit.
 
 ### Tech Stack
 
@@ -26,7 +31,7 @@ B.Tech in Information Technology (2025) · AWS Certified Cloud Practitioner · A
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
@@ -48,14 +53,6 @@ B.Tech in Information Technology (2025) · AWS Certified Cloud Practitioner · A
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat-square)
 ![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-333333?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-333333?style=flat-square&logo=openai)
-
----
-
-### Featured Projects
-
-**[LeakX](https://github.com/MrSamarjitBanerjee/leakx)** — A CLI tool for detecting hardcoded secrets in codebases. Built with Node.js and TypeScript, packaged for npm distribution.
-
-**[CodeSense](https://github.com/MrSamarjitBanerjee/codesense)** — A full-stack AI code review application. React/Vite frontend, Node.js/Express backend, with multi-mode analysis (review, optimize, explain, debug, security-audit).
 
 ---
 
