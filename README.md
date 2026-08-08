@@ -48,7 +48,6 @@ B.Tech in Information Technology (2025) · Award-winning final year project reco
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat-square&logo=githubactions)
 
 **Deployment**
-
 <img src="https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel&logoColor=FFFFFF" /><img src="https://img.shields.io/badge/-Render-333333?style=flat-square&logo=render&logoColor=46E3B7" /> <img src="https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 
 **AI / ML**
