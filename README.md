@@ -75,8 +75,11 @@ Competitive Martial arts forged my discipline, consistency, focus, and resilienc
   <img src="https://img.shields.io/badge/📧%20Email%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1XK7hz9QEX-doO9sPOpzdc7I4xs0NW0pg/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄%20Download%20Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+<a href="mailto:banerjeesamarjit9@gmail.com?subject=Backend%20Developer%20Opportunity">
+  <img
+    src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Me"
+  />
 </a>
 
 </div>
