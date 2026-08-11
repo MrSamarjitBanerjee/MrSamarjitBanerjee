@@ -70,9 +70,11 @@ Competitive Martial arts forged my discipline, consistency, focus, and resilienc
 
 <br>
 
-<a href="banerjeesamarjit9@gmail.com"
-    rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+<a href="mailto:banerjeesamarjit9@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Me"
+  />
 </a>
 &nbsp;
 <a href="mailto:banerjeesamarjit9@gmail.com?subject=Backend%20Developer%20Opportunity">
