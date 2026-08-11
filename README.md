@@ -67,18 +67,10 @@ Competitive Martial arts forged my discipline, consistency, focus, and resilienc
 <div align="center">
 
 ### **Open to backend and MERN full-stack roles · India**
-
 <br>
 
- <a
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=banerjeesamarjit9@gmail.com"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  <img
-    src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email Me"
-  />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=banerjeesamarjit9@gmail.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
 </a>
 
 </div>
